@@ -1,9 +1,12 @@
 //Author: Polly Sobeck
 //Program: CS475 Project-3
-//Date: 4/28/2019
+//Date: 4/30/2019
 //Description: This program simulates the growth of grain,
 //number of deer, and number of tigers over the course of 
 //6 years with varied levels of precipitation and temperature.
+
+// Base Structure and Randf helper methods were 
+// extracted from OSU CS475 Project-3
 
 #include <math.h>
 #include <stdlib.h>
